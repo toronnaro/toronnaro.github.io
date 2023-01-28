@@ -12,6 +12,9 @@ html {
 .navbar {
     padding: 10px;
 }
+.bg-navbar {
+    background-color: #F49D1A;
+}
 
 .navbar__logo {
     pointer-events: none;
@@ -24,7 +27,7 @@ html {
 .navbar a {
     margin-right: 10px;
     text-decoration: none;
-    color: rgb(82, 82, 96);
+    color: rgb(255, 255, 255);
     padding: 10px 15px;
     margin: 0 10px;
     margin-right: 10px;
@@ -194,6 +197,11 @@ html {
     width: 50%;
 }
 
+.models__images2 {
+    border-radius: 30px;
+    width: 70%;
+}
+
 .card {
     border: 0;  
 }
@@ -216,7 +224,7 @@ html {
 }
 
 footer {
-    background-color: #ffd700;
+    background-color: #F49D1A;
     padding: 1.5rem;
     text-align: center;
     color: rgb(0, 0, 0);
